@@ -1,5 +1,5 @@
 - name: print test play
-  host: all
+  hosts: all
   tasks:
     - name: print test task
       debug:
