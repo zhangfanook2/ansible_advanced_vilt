@@ -3,4 +3,4 @@
   tasks:
     - name: print test task
       debug:
-        meg: "test"
+        msg: "test"
