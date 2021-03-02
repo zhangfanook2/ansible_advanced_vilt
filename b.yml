@@ -1,6 +1,0 @@
-- name: print test play
-  hosts: all
-  tasks:
-    - name: print test task
-      debug:
-        msg: "test"
