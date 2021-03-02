@@ -1,0 +1,9 @@
+[load_balancers]
+frontend1.c06f.internal
+
+[app_servers]
+app1.c06f.internal
+app2.c06f.internal
+
+[database_servers]
+appdb1.c06f.internal
